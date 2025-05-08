@@ -4,7 +4,7 @@ Estimate cloud savings plan commitments using historical billing data.
 
 [![Docker Image Build](https://github.com/Richard-Barrett/optispend/actions/workflows/docker-build.yml/badge.svg)](https://github.com/Richard-Barrett/optispend/actions/workflows/docker-build.yml)
 [![Docker Publish to GHCR](https://github.com/Richard-Barrett/optispend/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/Richard-Barrett/optispend/actions/workflows/docker-publish.yml)
-[![Publish to PyPI](https://github.com/Richard-Barrett/optispend/actions/workflows/publish-to-pypi.yml/badge.svg)](https://github.com/Richard-Barrett/optispend/actions/workflows/publish-to-pypi.yml)
+[![Publish to PyPI](https://github.com/Richard-Barrett/optispend/actions/workflows/publish-to-pypi.yml/badge.svg?branch=main)](https://github.com/Richard-Barrett/optispend/actions/workflows/publish-to-pypi.yml)
 [![Pylint](https://github.com/Richard-Barrett/optispend/actions/workflows/pylint.yml/badge.svg)](https://github.com/Richard-Barrett/optispend/actions/workflows/pylint.yml)
 
 ## 📦 Installation
